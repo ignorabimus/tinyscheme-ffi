@@ -1,7 +1,7 @@
 tinyscheme-ffi
 ==============
 
-FFI Extension for TinyScheme based on libffi.
+FFI Extension for TinyScheme based on [libffi](https://sourceware.org/libffi/).
 
 This software is subject to the license terms contained in the LICENSE file.
 
